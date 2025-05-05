@@ -28,4 +28,5 @@ Desenvolvido em Node.js, com Express e Prisma ORM, utilizando MySQL como banco d
 
 ## 👤 Autor
 Vitor de Oliveira
+
 LinkedIn: https://www.linkedin.com/in/vitor-de-oliveira-905255217/
